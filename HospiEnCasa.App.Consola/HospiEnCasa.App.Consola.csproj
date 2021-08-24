@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\HospiEnCasa.App.Dominio\HospiEnCasa.App.Dominio.csproj" />
+    <ProjectReference Include="..\HospiEnCasa.App.Persistencia\HospiEnCasa.App.Persistencia.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>
